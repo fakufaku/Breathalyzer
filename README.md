@@ -9,3 +9,14 @@ Breathalyzer project that originated from a badge hacking contest at hashdays 20
 * 7-segment display from [Adafruit](http://www.adafruit.com/products/879)
 * Momentary switch such as [this](http://www.adafruit.com/products/367)  
 * Breadboard, or some protoboard, bunch of wires, resistors, etc.
+
+## Dependencies
+
+* [Arduino](http://www.arduino.cc) IDE
+* Adafruit's [LED Backpack](https://github.com/adafruit/Adafruit-LED-Backpack-Library) library
+* Adafruit's [GFX](https://github.com/adafruit/Adafruit-GFX-Library) library
+
+## Documentation
+
+* 7-segment [tutorial](http://learn.adafruit.com/adafruit-led-backpack/0-dot-56-seven-segment-backpack)
+* MQ-3 [datasheet](http://www.sparkfun.com/datasheets/Sensors/MQ-3.pdf)
